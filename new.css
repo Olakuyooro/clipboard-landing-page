@@ -9,6 +9,9 @@
     padding: 4rem;
 }
 
+/* #logo{
+    opacity: 100%;
+} */
 
 @media only screen and (max-width: 375px){
     #blueMac{
