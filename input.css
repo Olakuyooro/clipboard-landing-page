@@ -11,7 +11,7 @@
 }
 
 .secondPara{
-    @apply text-grayishBlue text-center font-normal w-80
+    @apply text-grayishBlue text-center text-little font-normal w-80
 }
 
 .mod{

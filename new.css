@@ -9,6 +9,23 @@
     padding: 4rem;
 }
 
+
+
+
+#firstBlue{
+    box-shadow: 0.2px 0.8px 2px blue;
+}
+#blueMac{
+    box-shadow: 0.2px 0.8px 2px blue;
+}
+#firstCyan{
+    box-shadow: 0.2px 0.8px 2px hsl(171, 66%, 44%);
+}
+#secondCyan{
+    box-shadow: 0.2px 0.8px 0.2px hsl(171, 66%, 44%);
+}
+
+
 /* #logo{
     opacity: 100%;
 } */
@@ -22,5 +39,6 @@
     #firstBlue{
         padding-left: 3.3rem;
         padding-right: 3.3rem;
+        box-shadow: 15px 1px red;
     }
 }

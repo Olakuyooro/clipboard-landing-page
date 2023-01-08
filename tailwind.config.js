@@ -25,7 +25,8 @@ module.exports = {
       },
       fontSize:{
         extra: '1.7rem',
-        mini: '1rem'
+        mini: '1rem',
+        little: '0.85rem'
       },
       backgroundImage: {
         'hero-pattern': "url('/images/image-computer.png')",
